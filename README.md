@@ -5,6 +5,7 @@ A multidisciplinary Full-Stack developer
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatAravena&hide=javascript,css,scss,html&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatAravena&show_icons=true&theme=radical)
 
 <!--
 https://raw.githubusercontent.com/asudbury/github-stats-transparent/output/generated/overview.svg
