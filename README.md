@@ -4,11 +4,11 @@
 A multidisciplinary Full-Stack developer 
 
 
-TypeScript   5 hrs 46 mins   ███████████░░░░░░░░░░░░░░   43.88 %
-JavaScript   5 hrs 19 mins   ██████████░░░░░░░░░░░░░░░   40.41 %
-JSON         1 hr 25 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.85 %
-Bash         19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
-HTML         16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
+TypeScript   5 hrs 46 mins   ███████████░░░░░░░░░░░░░░   43.88 % \n
+JavaScript   5 hrs 19 mins   ██████████░░░░░░░░░░░░░░░   40.41 % \n
+JSON         1 hr 25 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.85 % \n
+Bash         19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % \n
+HTML         16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % \n
 
 
 <!--
