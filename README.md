@@ -29,10 +29,6 @@ A multidisciplinary Full-Stack developer
 <!--
 https://raw.githubusercontent.com/asudbury/github-stats-transparent/output/generated/overview.svg
 -->
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatAravena)](https://github.com/anuraghazra/github-readme-stats)
-
-
  <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;-->
  <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;-->
 
