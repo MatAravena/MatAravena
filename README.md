@@ -12,6 +12,9 @@ https://raw.githubusercontent.com/asudbury/github-stats-transparent/output/gener
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatAravena)](https://github.com/anuraghazra/github-readme-stats)
 
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MatAravena)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **MatAravena/MatAravena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
