@@ -2,17 +2,6 @@
 
 
 A multidisciplinary Full-Stack developer 
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatAravena&hide=javascript,css,scss,html&theme=tokyonight) &nbsp;
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatAravena&show_icons=true&theme=radical)
-
-<!--
-https://raw.githubusercontent.com/asudbury/github-stats-transparent/output/generated/overview.svg
--->
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatAravena)](https://github.com/anuraghazra/github-readme-stats)
-
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -28,6 +17,17 @@ https://raw.githubusercontent.com/asudbury/github-stats-transparent/output/gener
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </div>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatAravena&hide=javascript,css,scss,html&theme=tokyonight) &nbsp;
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatAravena&show_icons=true&theme=radical)
+
+<!--
+https://raw.githubusercontent.com/asudbury/github-stats-transparent/output/generated/overview.svg
+-->
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatAravena)](https://github.com/anuraghazra/github-readme-stats)
+
+
  <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;-->
  <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;-->
 
