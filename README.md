@@ -3,6 +3,10 @@
 
 A multidisciplinary Full-Stack developer 
 
+<!--
+**MatAravena/MatAravena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 TypeScript   5 hrs 46 mins   ███████████░░░░░░░░░░░░░░   43.88 % \n
 JavaScript   5 hrs 19 mins   ██████████░░░░░░░░░░░░░░░   40.41 % \n
@@ -10,9 +14,6 @@ JSON         1 hr 25 mins    ██▓░░░░░░░░░░░░░░
 Bash         19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % \n
 HTML         16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % \n
 
-
-<!--
-**MatAravena/MatAravena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
