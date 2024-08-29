@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <ul>
   <li>🔭 I’m currently working on [Profit Pilot](https://github.com/MatAravena/AutoInvestingBot), An Auto investing platform empowered by AI (Personal dream and project).</li>
   <li>🌱 I’m currently learning Data Science and Python.</li>
-  <li>🗣 I speak English C1, Spanish mother thounge and  French B1. I'm currently learning German A2.</li>
+  <li>🗣 I speak English C1, Spanish mother tongue and French B1. I'm currently learning German A2.</li>
 </ul>
 
 <br/>
@@ -45,18 +45,26 @@ Here are some ideas to get you started:
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" alt="Webpack " width="40" height="40"/>&nbsp;
+    <img src="https://https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="Npm" alt="Npm" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg" title="Yarn" alt="Yarn" width="40" height="40"/>&nbsp;
     </div>
   </td>
   <td valign="top" width="50%">
     <h3>Backend</h3>
     <div align="center">
       <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="CSharp" alt="CSharp" width="40" height="40"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" title=".Net" alt=".NEt" width="40" height="40"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title=".NetCore" alt=".NetCore" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+
+      <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" title="Mss" alt="Mss" width="40" height="40"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle" alt="Oracle" width="40" height="40"/>&nbsp;
+
       <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="Mongodb" alt="Mongodb" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="Mysql" alt="Mysql" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="Redis" alt="Redis" width="40" height="40"/>&nbsp;
@@ -70,13 +78,20 @@ Here are some ideas to get you started:
     <div align="center">
         <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+        https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg
+        https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg
+        Machine Learning
+        Deep Learning  
+        LSTM
     </div>
   </td>
   <td valign="top" width="50%">
     <h3>DevOps</h3>
     <div align="center">
         <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins"  alt="Jenkins" width="40" height="40"/>&nbsp;
     </div>
   </td>
 </tr>
@@ -84,7 +99,7 @@ Here are some ideas to get you started:
 
 <br/> 
 
-<h2>Github Stats</h2>
+### Github Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatAravena&hide=javascript,css,scss,html&theme=tokyonight) &nbsp;
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatAravena&show_icons=true&theme=radical)
 
