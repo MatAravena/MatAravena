@@ -1,9 +1,11 @@
 ## Hi there 👋 I'm Matias Aravena
 A multidisciplinary Full-Stack developer 
 
-🔭 I’m currently working on Profit Pilot, An Auto investing platform empowered by AI (Personal dream and project).
-🌱 I’m currently learning Data Science and Python.
-🗣 I speak English C1, Spanish mother thounge and  French B1. I'm currently learning German A2.
+<ul>
+  <li>🔭 I’m currently working on Profit Pilot, An Auto investing platform empowered by AI (Personal dream and project).</li>
+  <li>🌱 I’m currently learning Data Science and Python.</li>
+  <li>🗣 I speak English C1, Spanish mother thounge and  French B1. I'm currently learning German A2.</li>
+</ul>
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="CSharp" alt="CSharp" width="40" height="40"/>&nbsp;
