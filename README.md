@@ -7,6 +7,11 @@ A multidisciplinary Full-Stack developer
   <li>🗣 I speak English C1, Spanish mother thounge and  French B1. I'm currently learning German A2.</li>
 </ul>
 
+
+<h1>My Skill Set</h1>h1>
+
+
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="CSharp" alt="CSharp" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
