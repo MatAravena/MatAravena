@@ -1,5 +1,5 @@
 <h1>Hi there 👋 I'm Matias Aravena</h1>
-A multidisciplinary Full-Stack developer 
+A multidisciplinary Full-Stack developer
 <br>
 
 <!--
@@ -80,7 +80,6 @@ Here are some ideas to get you started:
     </div>
   </td>
 </tr>
-  
 </table>
 
 <br/> 
