@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 -->
 
 <ul>
-  <li>🔭 I’m currently working on [Profit Pilot](https://github.com/MatAravena/AutoInvestingBot), An Auto investing platform empowered by AI (Personal dream and project).</li>
+  <li>🔭 I’m currently working on <a href="https://github.com/MatAravena/AutoInvestingBot">Profit Pilot</a>, An Auto investing platform empowered by AI (Personal dream and project).</li>
   <li>🌱 I’m currently learning Data Science and Python.</li>
   <li>🗣 I speak English C1, Spanish mother tongue and French B1. I'm currently learning German A2.</li>
   <li>📫 How to reach me: <a href="https://www.linkedin.com/in/matias-aravena/"> <img border="0" alt="Linkedin" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="25" height="25"> </a></li>
