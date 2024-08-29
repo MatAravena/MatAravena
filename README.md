@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Matias Aravena
+<h1> Hi there 👋 I'm Matias Aravena</h1>
 A multidisciplinary Full-Stack developer 
 
 <ul>
@@ -8,7 +8,7 @@ A multidisciplinary Full-Stack developer
 </ul>
 
 
-<h1>My Skill Set</h1>h1>
+<h1>My Skill Set</h1>
 
 
 
