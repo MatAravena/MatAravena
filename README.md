@@ -27,6 +27,8 @@ Here are some ideas to get you started:
   <li>🌱 I’m currently learning Data Science and Python.</li>
   <li>🗣 I speak English C1, Spanish mother tongue and French B1. I'm currently learning German A2.</li>
   <li>📫 How to reach me: <a href="https://www.linkedin.com/in/matias-aravena/"> <img border="0" alt="Linkedin" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="25" height="25"> </a></li>
+  <li>🌱 Personal Web Page <a href="https://MatAravena.github.io"> WebPage</a>  </li>
+  
 </ul>
 
 <br/>
