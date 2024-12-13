@@ -1,5 +1,5 @@
 <h1>Hi there 👋 I'm Matias Aravena</h1>
-A multidisciplinary Full-Stack developer
+A multidisciplinary Full-Stack developer and a junior Data Scientist
 <br /><br />
 
 <!--
